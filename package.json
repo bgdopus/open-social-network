@@ -1,0 +1,19 @@
+{
+  "name": "open-social-network",
+  "version": "1.0.0",
+  "description": "Telerik node.js team project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgdopus/open-social-network.git"
+  },
+  "author": "Daniel Georgiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgdopus/open-social-network/issues"
+  },
+  "homepage": "https://github.com/bgdopus/open-social-network#readme"
+}
